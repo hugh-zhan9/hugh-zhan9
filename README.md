@@ -1,4 +1,6 @@
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hugh-zhan9&show_icons=true)
+---
 - 👋 Hi, I’m @hugh-zhan9
 - 👀 I’m interested in Java\Go
 - 🌱 I’m currently learning Go
