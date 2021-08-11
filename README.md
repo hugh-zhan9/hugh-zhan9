@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<!-- tab 方法二 -->
 ![](https://github-readme-stats.vercel.app/api?username=hugh-zhan9&show_icons=false)
-<!-- endtab -->
 ![](https://count.getloli.com/get/@:hugh_zhan9?theme=gelbooru)
 
 <!---
