@@ -46,7 +46,7 @@
 
 <!-- Dynamic Quotes -->
 ![](https://v2.jinrishici.com/one.svg)
-
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![我也想成为屠龙少年](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
@@ -54,7 +54,7 @@
 <!-- GitHub数据统计 -->
 ![](https://github-readme-stats.vercel.app/api?username=hugh-zhan9&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hugh-zhan9&theme=dark&hide_border=true)
-
+<br><br><br>
 Most Used Language：
 <br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-zhan9&layout=compact&)
