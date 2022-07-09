@@ -27,15 +27,22 @@
 
 💪 Being used: 
 <br>
+<br>
 ![MyBatis](https://img.shields.io/badge/MyBatis-yellow?style=flat-square&logo=mybatis) ![Java](https://img.shields.io/badge/Java≥8-%2300599C.svg?style=flat-square&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker) ![Spring](https://img.shields.io/badge/Spring-%23239120.svg?style=flat-square&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-pink?style=flat-square&logo=SpringBoot) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-oringe?style=flat-square&logo=redis)
 
 🧠 Plan to study:
+<br>
 <br>
 ![SourceCode](https://img.shields.io/badge/SourceCode-MyBatis%20%7C%20Spring-yellowgreen) ![Rust](https://img.shields.io/badge/Rust-%23276DC3.svg?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js) ![Golang](https://img.shields.io/badge/Go-%23217346.svg?style=style=flat-square&logo=Go&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 🧰 Commonly used tools：
 <br>
+<br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![](https://badgen.net/badge/icon/github?icon=github&label) ![IDEA](https://img.shields.io/badge/JetBrains-IDEA%20%7C%20Goland%20%7C%20WebStorm-lightgrey)
+
+<br>
+<br>
+<br>
 
 <!-- Dynamic Quotes -->
 ![](https://v2.jinrishici.com/one.svg)
@@ -49,7 +56,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hugh-zhan9&theme=dark&hide_border=true)
 
 Most Used Language：
-<br>
+<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-zhan9&layout=compact&)
 
 <!-- wakatime 统计 -->
