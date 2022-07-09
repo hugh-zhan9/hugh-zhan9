@@ -2,9 +2,16 @@
 ![](https://count.getloli.com/get/@:hugh_zhan9?theme=gelbooru)
 **visitor.**
 
-<br>
-A poem for you:  
+
+**Here's a poem for you:**
 ![](https://v2.jinrishici.com/one.svg)
+
+
+**I also want to become a dragon slayer boy，like this：**
+![我也想成为屠龙少年](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
+
+------
+
 <br>
 
 - 👋 Hi, I’m @hugh-zhan9,  a Java developer with two years of development experience.
@@ -44,22 +51,20 @@ A poem for you:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![](https://badgen.net/badge/icon/github?icon=github&label) ![IDEA](https://img.shields.io/badge/JetBrains-IDEA%20%7C%20Goland%20%7C%20WebStorm-lightgrey)
 
 <br>
-<br>
-<br>
 
-<!-- Dynamic Quotes -->
+<!-- Dynamic Quotes
 <br><br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![我也想成为屠龙少年](https://s2.loli.net/2022/07/09/pkPHa2WlAJZ4639.jpg)
+-->
 
 <!-- GitHub数据统计 -->
-![](https://github-readme-stats.vercel.app/api?username=hugh-zhan9&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
-<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hugh-zhan9&theme=dark&hide_border=true)
-<br><br><br>
-Most Used Language：
-<br><br>
+![](https://github-readme-stats.vercel.app/api?username=hugh-zhan9&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
+
+<br>
+
+**My Most Used Language：**
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-zhan9&layout=compact&)
 
 <!-- wakatime 统计 -->
