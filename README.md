@@ -3,6 +3,8 @@
 **visitor.**
 
 <br>
+A poem for you: ![](https://v2.jinrishici.com/one.svg)
+<br>
 
 - 👋 Hi, I’m @hugh-zhan9,  a Java developer with two years of development experience.
 - 👀 interested in web development and curious about various development areas.
@@ -45,7 +47,6 @@
 <br>
 
 <!-- Dynamic Quotes -->
-![](https://v2.jinrishici.com/one.svg)
 <br><br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
