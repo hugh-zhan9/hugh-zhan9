@@ -18,7 +18,5 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 Other        2 hrs 40 mins   ██████████████▒░░░░░░░░░░   57.63 %
-```
-<!--END_SECTION:waka-->
 
 [我的博客在这](https://blog.zhangyk.space)，欢迎访问呦
