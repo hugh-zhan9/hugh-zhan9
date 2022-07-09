@@ -68,10 +68,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-zhan9&layout=compact&)
 
 <!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-
 
 <!--START_SECTION:waka-->
 
@@ -80,9 +76,6 @@ Other        2 hrs 40 mins   ██████████████▒░░
 ```
 
 <!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
 
 <!-- GitHub Activity Graph -->
 <table align="center">
