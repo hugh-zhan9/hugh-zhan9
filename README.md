@@ -76,7 +76,7 @@ From: 21 June 2022 - To: 21 July 2022
 
 Total Time: 29 hrs 6 mins
 
-Other                            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.57 %
+Other                            ██████████████████▒░░░░░░   73.57 %
 ```
 
 <!--END_SECTION:waka-->
