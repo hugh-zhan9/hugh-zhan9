@@ -19,6 +19,6 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           COMMIT_MESSAGE: Updated the Readme
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+#           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
           SHOW_TIME: false
