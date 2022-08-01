@@ -72,11 +72,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 31 July 2022
-
-Total Time: 63 hrs 56 mins
-
-Other                            ██████████████▒░░░░░░░░░░   57.32 %
+Java             17 hrs 23 mins  ███████████████████▓░░░░░   79.06 %
+XML              1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+YAML             1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Other            45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
