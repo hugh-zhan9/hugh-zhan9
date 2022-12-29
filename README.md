@@ -72,9 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java    56 mins         ████████████████▒░░░░░░░░   65.71 %
-SQL     19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-Other   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
