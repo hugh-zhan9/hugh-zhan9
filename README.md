@@ -72,7 +72,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash   11 mins         █████████████▒░░░░░░░░░░░   53.25 %
+Java   9 mins          ██████████▓░░░░░░░░░░░░░░   42.66 %
+YAML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
