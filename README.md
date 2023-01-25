@@ -72,8 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   50 mins         █████████████████████████   99.45 %
-SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
