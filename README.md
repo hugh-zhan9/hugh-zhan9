@@ -72,7 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   9 mins          ████████████░░░░░░░░░░░░░   48.64 %
+Vue.js     5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+Java       4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
+Text       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
