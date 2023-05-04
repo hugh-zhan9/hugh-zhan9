@@ -72,10 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             19 mins         ██████████████████████▓░░   90.00 %
-GitIgnore file   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Properties       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
