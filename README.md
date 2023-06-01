@@ -72,9 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         0 secs          ███████████▓░░░░░░░░░░░░░   46.84 %
-GitIgnore file   0 secs          ██████████▒░░░░░░░░░░░░░░   41.47 %
-HTTP Request     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
