@@ -72,10 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 55 mins    ████████████████████▓░░░░   82.60 %
-XML        22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-textmate   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Lua        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
