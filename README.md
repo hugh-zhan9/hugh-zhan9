@@ -72,7 +72,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git Config   0 secs          ████████████████████████▒   96.99 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
